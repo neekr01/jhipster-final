@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "jhiPrefix": "jhi",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "packageName": "com.myapp.yourapp.notification",
+    "packageFolder": "com/myapp/yourapp/notification",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "serviceDiscoveryType": false,
+    "skipClient": true,
+    "testFrameworks": [],
+    "websocket": false,
+    "baseName": "notification",
+    "applicationType": "microservice",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "buildTool": "maven",
+    "serverPort": "8083",
+    "jhipsterVersion": "6.5.1",
+    "skipUserManagement": true,
+    "clientPackageManager": "npm",
+    "jwtSecretKey": "ZTRmOWQ4NGI1ZWQ1MjljZDdjY2JhYjNmOTkzNjMwY2NlMWQwYzUwYjMzY2YyZjU2OWQyNmIxMWQ3ZjZmOGViNDFkNmUzMzhjYjM5ZDIwNTlhMzNlN2MxMTgzNjU0NmM3YTlhMDIzYjFhODY3OTQyZGYxYjA2NTZjNzUxNmJmNmU=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "blueprints": [],
+    "otherModules": []
+  },
+  "entities": [
+    "Notification"
+  ]
+}

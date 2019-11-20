@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "deploymentType": "kubernetes",
+    "gatewayType": "zuul",
+    "monitoring": "no",
+    "directoryPath": "../",
+    "appsFolders": [
+      "ui",
+      "organization",
+      "leave",
+      "meeting",
+      "notification"
+    ],
+    "clusteredDbApps": [],
+    "consoleOptions": [],
+    "serviceDiscoveryType": false,
+    "dockerRepositoryName": "shagunbandi",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "avengers",
+    "kubernetesServiceType": "Ingress",
+    "ingressDomain": "104.198.193.149.nip.io",
+    "istio": true,
+    "jwtSecretKey": "OGZhZWQzZDFhYTgyMjY5YTk0NWUyMjU0ZDA0Y2M0ZTM1MjgwMTg5NTQ5OTA3MWUzYzkxOTYwMTM2YTIzMDA3OWMwZDljNjdjOGZkNWIyOTQ3OTg1NWUyOGRmNTdlZTlmYjlhZQ=="
+  }
+}
