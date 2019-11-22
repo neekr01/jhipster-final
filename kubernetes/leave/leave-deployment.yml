@@ -34,7 +34,7 @@ spec:
               done
       containers:
         - name: leave-app
-          image: shagunbandi/leave
+          image: neekr01/leave
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

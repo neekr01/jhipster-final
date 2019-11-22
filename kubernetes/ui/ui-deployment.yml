@@ -34,7 +34,7 @@ spec:
               done
       containers:
         - name: ui-app
-          image: shagunbandi/ui
+          image: neekr01/ui
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

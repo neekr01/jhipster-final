@@ -34,7 +34,7 @@ spec:
               done
       containers:
         - name: notification-app
-          image: shagunbandi/notification
+          image: neekr01/notification
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

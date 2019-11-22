@@ -34,7 +34,7 @@ spec:
               done
       containers:
         - name: meeting-app
-          image: shagunbandi/meeting
+          image: neekr01/meeting
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod

@@ -34,7 +34,7 @@ spec:
               done
       containers:
         - name: organization-app
-          image: shagunbandi/organization
+          image: neekr01/organization
           env:
             - name: SPRING_PROFILES_ACTIVE
               value: prod
