@@ -17,7 +17,7 @@ export const Home = (props: IHomeProp) => {
     <Row>
       <Col md="9">
         <h2>
-          <Translate contentKey="home.title">Welcome, Java Develo[pers!</Translate>
+          <Translate contentKey="home.title">Welcome, Java Developers!</Translate>
         </h2>
         <p className="lead">
           <Translate contentKey="home.subtitle">This is your homepage</Translate>
