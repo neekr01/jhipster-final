@@ -3,8 +3,15 @@ kind: Deployment
 metadata:
   name: ui
   namespace: avengers
+
+
 spec:
   replicas: 1
+  template:
+    containers: 
+      imagePullPolicy: Always
+  strategy:
+    type: Recreate
   selector:
     matchLabels:
       app: ui
