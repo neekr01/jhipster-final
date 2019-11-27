@@ -1,0 +1,10 @@
+{
+  "simulation": "knolx.example.Simulations",
+  "simulationId": "simulations",
+  "start": 1515740299718,
+  "description": "null",
+  "scenarios": ["GetUser"],
+  "assertions": [
+
+  ]
+}

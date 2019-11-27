@@ -1,0 +1,301 @@
+RUN	knolx.example.Simulations		simulations	1515740299718	null	2.0
+USER	GetUser	1	START	1515740301403	1515740301403
+REQUEST	GetUser	1		Get Valid User	1515740301438	1515740301438	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301473	1515740301473	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301475	1515740301475	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301477	1515740301477	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301479	1515740301479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301481	1515740301481	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301484	1515740301484	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301486	1515740301486	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301488	1515740301488	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	1		Get Valid User	1515740301521	1515740301521	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	1	END	1515740301403	1515740301525
+USER	GetUser	2	START	1515740301791	1515740301791
+REQUEST	GetUser	2		Get Valid User	1515740301792	1515740301792	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301798	1515740301798	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301805	1515740301805	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301812	1515740301812	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301820	1515740301820	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301831	1515740301831	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301849	1515740301849	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301855	1515740301855	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301867	1515740301867	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	2		Get Valid User	1515740301901	1515740301901	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	2	END	1515740301791	1515740301906
+USER	GetUser	3	START	1515740302131	1515740302131
+REQUEST	GetUser	3		Get Valid User	1515740302133	1515740302133	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302140	1515740302140	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302146	1515740302146	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302152	1515740302152	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302161	1515740302161	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302168	1515740302168	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302174	1515740302174	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302186	1515740302186	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302192	1515740302192	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	3		Get Valid User	1515740302222	1515740302222	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	3	END	1515740302131	1515740302229
+USER	GetUser	4	START	1515740302461	1515740302461
+REQUEST	GetUser	4		Get Valid User	1515740302462	1515740302462	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302470	1515740302470	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302479	1515740302479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302510	1515740302510	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302523	1515740302523	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302535	1515740302535	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302544	1515740302544	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302552	1515740302552	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302571	1515740302571	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	4		Get Valid User	1515740302601	1515740302601	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	4	END	1515740302461	1515740302604
+USER	GetUser	5	START	1515740302971	1515740302971
+REQUEST	GetUser	5		Get Valid User	1515740302972	1515740302972	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740302982	1515740302982	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740302991	1515740302991	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303006	1515740303006	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303020	1515740303020	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303030	1515740303030	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303039	1515740303039	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303052	1515740303052	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303060	1515740303060	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	5		Get Valid User	1515740303092	1515740303092	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	5	END	1515740302971	1515740303100
+USER	GetUser	6	START	1515740303472	1515740303472
+REQUEST	GetUser	6		Get Valid User	1515740303472	1515740303472	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303478	1515740303478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303480	1515740303480	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303482	1515740303482	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303484	1515740303484	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303487	1515740303487	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303489	1515740303489	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303491	1515740303491	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303497	1515740303497	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	6		Get Valid User	1515740303522	1515740303522	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	6	END	1515740303472	1515740303529
+USER	GetUser	7	START	1515740303751	1515740303751
+REQUEST	GetUser	7		Get Valid User	1515740303752	1515740303752	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303758	1515740303758	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303764	1515740303764	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303773	1515740303773	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303786	1515740303786	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303792	1515740303792	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303798	1515740303798	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303807	1515740303807	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303819	1515740303819	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	7		Get Valid User	1515740303852	1515740303852	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	7	END	1515740303751	1515740303856
+USER	GetUser	8	START	1515740304081	1515740304081
+REQUEST	GetUser	8		Get Valid User	1515740304083	1515740304083	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304090	1515740304090	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304096	1515740304096	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304102	1515740304102	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304107	1515740304107	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304114	1515740304114	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304126	1515740304126	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304132	1515740304132	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304141	1515740304141	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	8		Get Valid User	1515740304171	1515740304171	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	8	END	1515740304081	1515740304177
+USER	GetUser	9	START	1515740304411	1515740304411
+REQUEST	GetUser	9		Get Valid User	1515740304412	1515740304412	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304420	1515740304420	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304425	1515740304425	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304430	1515740304430	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304438	1515740304438	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304443	1515740304443	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304457	1515740304457	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304472	1515740304472	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304481	1515740304481	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	9		Get Valid User	1515740304511	1515740304511	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	9	END	1515740304411	1515740304517
+USER	GetUser	10	START	1515740304911	1515740304911
+REQUEST	GetUser	10		Get Valid User	1515740304911	1515740304911	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304918	1515740304918	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304923	1515740304923	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304928	1515740304928	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304935	1515740304935	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304942	1515740304942	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304947	1515740304947	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304952	1515740304952	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304961	1515740304961	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	10		Get Valid User	1515740304992	1515740304992	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	10	END	1515740304911	1515740304996
+USER	GetUser	11	START	1515740305411	1515740305411
+REQUEST	GetUser	11		Get Valid User	1515740305412	1515740305412	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305419	1515740305419	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305424	1515740305424	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305429	1515740305429	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305435	1515740305435	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305453	1515740305453	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305466	1515740305466	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305479	1515740305479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305485	1515740305485	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	11		Get Valid User	1515740305521	1515740305521	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	11	END	1515740305411	1515740305529
+USER	GetUser	12	START	1515740305751	1515740305751
+REQUEST	GetUser	12		Get Valid User	1515740305752	1515740305752	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305757	1515740305757	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305762	1515740305762	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305768	1515740305768	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305776	1515740305776	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305786	1515740305786	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305792	1515740305792	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305809	1515740305809	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305817	1515740305817	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	12		Get Valid User	1515740305852	1515740305852	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	12	END	1515740305751	1515740305858
+USER	GetUser	13	START	1515740306081	1515740306081
+REQUEST	GetUser	13		Get Valid User	1515740306082	1515740306082	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306087	1515740306087	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306092	1515740306092	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306096	1515740306096	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306103	1515740306103	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306109	1515740306109	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306119	1515740306119	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306136	1515740306136	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306151	1515740306151	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	13		Get Valid User	1515740306182	1515740306182	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	13	END	1515740306081	1515740306188
+USER	GetUser	14	START	1515740306421	1515740306421
+REQUEST	GetUser	14		Get Valid User	1515740306421	1515740306421	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306427	1515740306427	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306432	1515740306432	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306439	1515740306439	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306445	1515740306445	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306451	1515740306451	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306460	1515740306460	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306478	1515740306478	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306486	1515740306486	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	14		Get Valid User	1515740306521	1515740306521	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	14	END	1515740306421	1515740306527
+USER	GetUser	15	START	1515740306911	1515740306911
+REQUEST	GetUser	15		Get Valid User	1515740306911	1515740306911	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306917	1515740306917	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306922	1515740306922	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306927	1515740306927	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306935	1515740306935	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306941	1515740306941	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306945	1515740306945	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306951	1515740306951	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306958	1515740306958	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	15		Get Valid User	1515740306992	1515740306992	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	15	END	1515740306911	1515740306998
+USER	GetUser	16	START	1515740307410	1515740307410
+REQUEST	GetUser	16		Get Valid User	1515740307411	1515740307411	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307416	1515740307416	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307421	1515740307421	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307426	1515740307426	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307430	1515740307430	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307435	1515740307435	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307446	1515740307446	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307451	1515740307451	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307458	1515740307458	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	16		Get Valid User	1515740307492	1515740307492	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	16	END	1515740307410	1515740307497
+USER	GetUser	17	START	1515740307751	1515740307751
+REQUEST	GetUser	17		Get Valid User	1515740307752	1515740307752	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307757	1515740307757	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307761	1515740307761	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307767	1515740307767	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307773	1515740307773	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307778	1515740307778	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307782	1515740307782	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307789	1515740307789	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307796	1515740307796	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	17		Get Valid User	1515740307831	1515740307831	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	17	END	1515740307751	1515740307837
+USER	GetUser	18	START	1515740308081	1515740308081
+REQUEST	GetUser	18		Get Valid User	1515740308082	1515740308082	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308088	1515740308088	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308093	1515740308093	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308097	1515740308097	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308103	1515740308103	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308111	1515740308111	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308120	1515740308120	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308127	1515740308127	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308133	1515740308133	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	18		Get Valid User	1515740308171	1515740308171	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	18	END	1515740308081	1515740308178
+USER	GetUser	19	START	1515740308421	1515740308421
+REQUEST	GetUser	19		Get Valid User	1515740308422	1515740308422	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308426	1515740308426	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308431	1515740308431	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308436	1515740308436	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308446	1515740308446	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308451	1515740308451	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308460	1515740308460	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308473	1515740308473	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308482	1515740308482	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	19		Get Valid User	1515740308521	1515740308521	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	19	END	1515740308421	1515740308528
+USER	GetUser	20	START	1515740308921	1515740308921
+REQUEST	GetUser	20		Get Valid User	1515740308921	1515740308921	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308927	1515740308927	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308932	1515740308932	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308937	1515740308937	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308943	1515740308943	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308950	1515740308950	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308954	1515740308954	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308963	1515740308963	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740308971	1515740308971	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	20		Get Valid User	1515740309002	1515740309002	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	20	END	1515740308921	1515740309008
+USER	GetUser	21	START	1515740309421	1515740309421
+REQUEST	GetUser	21		Get Valid User	1515740309422	1515740309422	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309427	1515740309427	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309431	1515740309431	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309437	1515740309437	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309443	1515740309443	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309449	1515740309449	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309457	1515740309457	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309467	1515740309467	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309479	1515740309479	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	21		Get Valid User	1515740309511	1515740309511	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	21	END	1515740309421	1515740309513
+USER	GetUser	22	START	1515740309751	1515740309751
+REQUEST	GetUser	22		Get Valid User	1515740309752	1515740309752	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309756	1515740309756	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309760	1515740309760	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309765	1515740309765	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309770	1515740309770	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309775	1515740309775	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309782	1515740309782	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309791	1515740309791	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309795	1515740309795	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	22		Get Valid User	1515740309821	1515740309821	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	22	END	1515740309751	1515740309825
+USER	GetUser	23	START	1515740310081	1515740310081
+REQUEST	GetUser	23		Get Valid User	1515740310082	1515740310082	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310086	1515740310086	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310090	1515740310090	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310094	1515740310094	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310100	1515740310100	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310106	1515740310106	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310110	1515740310110	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310119	1515740310119	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310124	1515740310124	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	23		Get Valid User	1515740310151	1515740310151	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	23	END	1515740310081	1515740310155
+USER	GetUser	24	START	1515740310421	1515740310421
+REQUEST	GetUser	24		Get Valid User	1515740310422	1515740310422	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310426	1515740310426	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310430	1515740310430	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310439	1515740310439	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310444	1515740310444	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310451	1515740310451	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310460	1515740310460	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310483	1515740310483	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310491	1515740310491	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	24		Get Valid User	1515740310521	1515740310521	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	24	END	1515740310421	1515740310526
+USER	GetUser	25	START	1515740310921	1515740310921
+REQUEST	GetUser	25		Get Valid User	1515740310922	1515740310922	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310926	1515740310926	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310930	1515740310930	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310934	1515740310934	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310939	1515740310939	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310945	1515740310945	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310950	1515740310950	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310957	1515740310957	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310963	1515740310963	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+REQUEST	GetUser	25		Get Valid User	1515740310992	1515740310992	KO	j.n.ConnectException: Connection refused: localhost/127.0.0.1:9000
+USER	GetUser	25	END	1515740310921	1515740310996
