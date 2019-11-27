@@ -20,7 +20,7 @@ class Simulations extends Simulation {
     }*/
   }
   val httpConf = http
-    .baseURL(ConfigFactory.load("gatling.properties").getString("BASE_URL_LOCAL"))
+    .baseURL(ConfigFactory.load("gatling.properties").getString("BASE_URL"))
     .acceptHeader("application/json; charset=utf-8")
     .doNotTrackHeader("1")
     .acceptLanguageHeader("en-US,en;q=0.5")
