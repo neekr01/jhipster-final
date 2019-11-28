@@ -156,13 +156,14 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
       - Jenkins -> Manage Jenkins -> Manage Plugins -> Available -> search for SonarQube Scanner for Jenkins and install it
 
     - Configuring Jenkins to connect with sonar server
+```
       - Jenkins -> Manage Jenkins -> Configure System -> Sonarque servers
          -> Name:       sonarqube-server
          -> Server Url: http://server_domain_name:9000/sonar/projects
          -> Server authentication token:
               -> For server authentication token, login as admin in sonarqube server(user:admin && password:admin) and generate a server-token
                  by clicking on security. Copy that token and save as secret text in your jenkins credentials.
-
+```
     - Configuring Sonarqube scanner installations:
        - Jenkins -> Manage Jenkins -> Global Tool Configuration -> Sonarqube Scanner  (Install sonarqube in /opt/sonarqube on sonar-instance)
           -> Name: sonar-scanner-4.2.0.1873 -linux (name of sonar scanner u downloaded)
