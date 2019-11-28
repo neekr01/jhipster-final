@@ -1,24 +1,29 @@
     
 Sonar-Server setup and integration with jekins pipeline (we have used a seperate instance for sonarqube)
 
-###1. Perform a system update
+### 1. Perform a system update
 ```
-   - sudo apt-get update
-   - sudo apt-get -y upgrade
+     sudo apt-get update
+     sudo apt-get -y upgrade
  ```
 
-2. Install jdk
-   - sudo apt-get install default-jdk
+### 2. Install jdk
+```
+     sudo apt-get install default-jdk
+```
 
+### 3. Install and configure PostgreSQL
 
-3. Install and configure PostgreSQL
-   - Install the PostgreSQL repository
-       - sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+   ##  Install the PostgreSQL repository
+         ```
+         sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
        - wget -q https://www.postgresql.org/media/keys/ACCC4CF8.asc -O - | sudo apt-key add -
+       ```
    
-   - Install the PostgreSQL database server by running
-       - sudo apt-get -y install postgresql postgresql-contrib
-
+   ##  Install the PostgreSQL database server by running
+       ```
+       sudo apt-get -y install postgresql postgresql-contrib
+       ```
    - Start PostgreSQL server and enable it to start automatically at boot time by running:
        - sudo systemctl start postgresql
        - sudo systemctl enable postgresql
