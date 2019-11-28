@@ -19,39 +19,47 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
          sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
         wget -q https://www.postgresql.org/media/keys/ACCC4CF8.asc -O - | sudo apt-key add -
         
-   - Install the PostgreSQL database server by running
-       ```
+   - Install the PostgreSQL database server by running  
+```
        sudo apt-get -y install postgresql postgresql-contrib
-       ```
+ ```
    - Start PostgreSQL server and enable it to start automatically at boot time by running:
-   ```
+ ```
         sudo systemctl start postgresql
         sudo systemctl enable postgresql
-   ```
+ ```
    - Change the password for the default PostgreSQL user.
-       - sudo passwd postgres
-
+ ```
+        sudo passwd postgres
+```
    - Switch to the postgres user.
+```
        - su - postgres
-
+```
    - Create a new user by typing:
+```
        - createuser sonar
-
+```
    - Switch to the PostgreSQL shell.
+```
        - psql
-
+```
    - Set a password for the newly created user for SonarQube database.
+```
        - ALTER USER sonar WITH ENCRYPTED password 'P@ssword';
-
+```
    - Create a new database for PostgreSQL database by running:
+```
        - CREATE DATABASE sonar OWNER sonar;
-
+```
    - Exit from the psql shell:
+```
        - \q
-
+```
    - Switch back to the sudo user by running the exit command.
+```
        - exit
-
+```
 
 4. Download and configure SonarQube
    - Download the SonarQube installer files archive.
