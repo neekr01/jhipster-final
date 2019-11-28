@@ -60,7 +60,7 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
        - sudo mv /opt/sonarqube-7.3 /opt/sonarqube
 
    - Add a sonar user
-       - adduser <name of user>    e.g; adduser sonaradmin
+       - adduser name_of_user    e.g; adduser sonaradmin
 
    - Add a password
        - passwd
