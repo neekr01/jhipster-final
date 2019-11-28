@@ -39,7 +39,7 @@ class BasicSimulation extends Simulation {
       .get("/computers?p=4"))
     .pause(5)
     .exec(http("request_9")
-      .get("/computers/new"))
+      .get("/computers/what"))
     .pause(1)
     .exec(http("request_10") // Here's an example of a POST request
       .post("/computers")
