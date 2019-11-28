@@ -2,8 +2,10 @@
 Sonar-Server setup and integration with jekins pipeline (we have used a seperate instance for sonarqube)
 
 1. Perform a system update
+```
    - sudo apt-get update
    - sudo apt-get -y upgrade
+ ```
 
 2. Install jdk
    - sudo apt-get install default-jdk
