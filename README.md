@@ -116,7 +116,7 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
       - sudo nano /etc/systemd/system/sonar.service
 
    - Populate the file with:
-     /*
+```
       [Unit]
       Description=SonarQube service
       After=syslog.target network.target
@@ -134,7 +134,7 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
       [Install]
       WantedBy=multi-user.target
 
-     */
+```
 
 
     - Start the application by running:
