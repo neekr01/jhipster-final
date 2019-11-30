@@ -196,7 +196,7 @@ Sonar-Server setup and integration with jekins pipeline (we have used a seperate
    - docker pull sonarqube
 
 3. Run that docker image
-   - docker run -d sonarqube -p 9000:9000 sonarqube
+   - docker run -d --name sonarqube -p 9000:9000 sonarqube
 
 4. Accessing Sonarqube Server 
     - http://server_domain_name:9000/
